@@ -1,0 +1,21 @@
+Declarative knowledge 
+Imperative knowledge
+algorithm
+
+Programming Languages:
+* primative constructs 
+** literals
+*** 3.14
+**infix operators: +-*/
+
+a = 3.14 * 5
+
+=is assignment
+
+a = a + 2 
+
+Errors:
+*syntax
+**a + 2 + 5 (can only be one variable a + 5)
+* semantic errors (the program does not do what you want)
+**
